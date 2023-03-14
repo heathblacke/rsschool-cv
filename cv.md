@@ -18,7 +18,7 @@
 ---
 
 
-###Briefly About Myself: 
+### Briefly About Myself: 
 
 My programming career started with learning the Java language. I also took courses from Epam on Java Web Development. After the successful completion and delivery of the project. 
 
@@ -29,7 +29,7 @@ I like the instant feedback of my work, I see what I'm doing and what needs to b
 
 ---
 
-###Skills:
+### Skills:
 * Java Fundamentals
 * JavaME, JavaSE, JavaEE
 * GitBash, GitHub, GitDekstop
@@ -47,7 +47,7 @@ I like the instant feedback of my work, I see what I'm doing and what needs to b
 
 ---
 
-###Code example: 
+### Code example: 
 
 Implement a function that accepts 3 integer values a, b, c. The function should return true if a triangle can be built with the sides of given length and false in any other case.
 
@@ -67,7 +67,7 @@ if(a + b <= c || a + c <= b || b + c <= a) {
 
 ---
 
-###Experience
+### Experience
 
 * The first serious experience for me is the [final project](https://github.com/heathblacke/FinalProject) of the Java Web Development course.
 
@@ -83,7 +83,7 @@ if(a + b <= c || a + c <= b || b + c <= a) {
 
 ---
 
-###Education and Courses:
+### Education and Courses:
 * Epam AQA stage#1
 * Introducing to Java Online
 * Java Web Development from EPAM
@@ -94,7 +94,7 @@ if(a + b <= c || a + c <= b || b + c <= a) {
 
 ---
 
-###Languages: 
+### Languages: 
 
 * English B1 (according to Epam Test before course, use of the language to communicate with the customer on a commercial project, and the globalization of applications and services)
 * Russian - Native
