@@ -69,4 +69,28 @@ if(a + b <= c || a + c <= b || b + c <= a) {
 
 ###Experience
 
-* 
+* The first serious experience for me is the [final project](https://github.com/heathblacke/FinalProject) of the Java Web Development course.
+
+* 6 months of commercial experience in the [company](https://www.linkedin.com/company/apvb/). Developed nft web service. Using the following technology stack:
+    + JavaME, JavaSE, JavaEE
+    + GitBash, GitHub, GitDekstop
+    + Jenkins
+    + SQL
+    + MySQL 
+    + XML
+    + XMS
+    + Spring mvc, data, security, boot.
+
+---
+
+###Education and Courses:
+* Epam AQA stage#1
+* Introducing to Java Online
+* Java Web Development from EPAM
+    + [Certificate](https://certificates.epam.com/certificates/0ca05724-eba8-4290-80e8-a8c6609ac555)
+* HTML, CSS, and Javascript for Web Developers: Johns Hopkins University
+* Bogdan Stashchuk - HTML & CSS for begginers
+* Bogdan Stashchuk - JavaScript for begginers
+
+---
+    
