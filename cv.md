@@ -93,4 +93,9 @@ if(a + b <= c || a + c <= b || b + c <= a) {
 * Bogdan Stashchuk - JavaScript for begginers
 
 ---
-    
+
+###Languages: 
+
+* English B1 (according to Epam Test before course, use of the language to communicate with the customer on a commercial project, and the globalization of applications and services)
+* Russian - Native
+* Polish - Basic
