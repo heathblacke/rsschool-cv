@@ -1,12 +1,12 @@
-#Alexandr Uldinovich
+# Alexandr Uldinovich
 
-###Junior Frontend Developer
+### Junior Frontend Developer
 
 
 ---
 
 
-###Contact iformation:
+### Contact iformation:
 
 **Phone:** +375-29-330-15-16
 **E-mail:** heathblacke@gmail.com
