@@ -30,3 +30,43 @@ I like the instant feedback of my work, I see what I'm doing and what needs to b
 ---
 
 ###Skills:
+* Java Fundamentals
+* JavaME, JavaSE, JavaEE
+* GitBash, GitHub, GitDekstop
+* Jenkins
+* SQL
+* MySQL 
+* XML
+* XMS
+* HTML5
+* VS code, InteliJ IDEA 
+* CSS3
+* Spring mvc, data, security, boot
+* JS basics
+* Figma, Bootstrap
+
+---
+
+###Code example: 
+
+Implement a function that accepts 3 integer values a, b, c. The function should return true if a triangle can be built with the sides of given length and false in any other case.
+
+```
+function isTriangle(a,b,c)
+{
+if(a + b <= c || a + c <= b || b + c <= a) {
+   return false;
+  }
+  else {
+    return true;
+  }
+
+}
+
+```
+
+---
+
+###Experience
+
+* 
